@@ -69,7 +69,7 @@ If the graph is given in the form of edge input format, i.e.,
 3 4
 ```
 
-then just run the ``graph_procc.py`` file given in the repo. Change the input name of the file, with whatever file you have and set output accordingly.
+then just run the ``graph_procc.py`` file given in the repo. Change the input name of the file, with whatever file you have and set output accordingly. This will convert the graph to node-adjaceny list format [as shown above](#flow-of-the-program).
 
 ## Parameters of Input
 
