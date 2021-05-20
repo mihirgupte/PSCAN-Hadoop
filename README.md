@@ -8,6 +8,8 @@ which is a MapReduce implementation of the paper <br />
 
 > X.Xu, N.Yuruk, Z. Feng, T. Schweiger. SCAN: a structural clustering algorithm for networks,Proceedings of the 13th ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 824-833, 2007. <br />
 
+I have provided a sample graph network which is the [Zachary Karate Club](http://konect.cc/networks/ucidata-zachary/) graph.
+
 **Note:** There are slight changes in my code which are not present in the PSCAN paper, but the underlying results are same.
 
 ## Content
